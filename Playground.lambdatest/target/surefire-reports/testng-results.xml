@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T10:24:35 CEST" name="Playground.lambdatest suite" finished-at="2023-05-12T10:25:12 CEST" duration-ms="36777">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T10:24:35 CEST" name="Playground.lambdatest test" finished-at="2023-05-12T10:25:12 CEST" duration-ms="36777">
+      <class name="org.example.Buy">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.example.Buy@4c4748bf]" started-at="2023-05-12T10:24:35 CEST" name="beforeClass" finished-at="2023-05-12T10:24:35 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.Buy@4c4748bf]" started-at="2023-05-12T10:24:35 CEST" name="beforeMethod" finished-at="2023-05-12T10:24:38 CEST" duration-ms="2989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest()[pri:0, instance:org.example.Buy@4c4748bf]" started-at="2023-05-12T10:24:38 CEST" name="loginTest" finished-at="2023-05-12T10:24:54 CEST" duration-ms="16056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- org.example.Buy -->
+      <class name="org.example.Login">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.example.Login@42f33b5d]" started-at="2023-05-12T10:25:07 CEST" name="beforeClass" finished-at="2023-05-12T10:25:07 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.Login@42f33b5d]" started-at="2023-05-12T10:25:07 CEST" name="beforeMethod" finished-at="2023-05-12T10:25:08 CEST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest()[pri:0, instance:org.example.Login@42f33b5d]" started-at="2023-05-12T10:25:08 CEST" name="loginTest" finished-at="2023-05-12T10:25:12 CEST" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="avsluta()[pri:0, instance:org.example.Login@42f33b5d]" started-at="2023-05-12T10:25:12 CEST" name="avsluta" finished-at="2023-05-12T10:25:12 CEST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avsluta -->
+      </class> <!-- org.example.Login -->
+      <class name="org.example.SuiteSetupp">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:org.example.SuiteSetupp@3e14c16d]" started-at="2023-05-12T10:24:35 CEST" name="beforeSuite" finished-at="2023-05-12T10:24:35 CEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+      </class> <!-- org.example.SuiteSetupp -->
+      <class name="org.example.TestSetupp">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:org.example.TestSetupp@5c8504fd]" started-at="2023-05-12T10:24:35 CEST" name="beforeTest" finished-at="2023-05-12T10:24:35 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+      </class> <!-- org.example.TestSetupp -->
+      <class name="org.example.LogOut">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.example.LogOut@2eced48b]" started-at="2023-05-12T10:24:54 CEST" name="beforeClass" finished-at="2023-05-12T10:24:54 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.LogOut@2eced48b]" started-at="2023-05-12T10:24:54 CEST" name="beforeMethod" finished-at="2023-05-12T10:24:55 CEST" duration-ms="1019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout_Test()[pri:0, instance:org.example.LogOut@2eced48b]" started-at="2023-05-12T10:24:55 CEST" name="logout_Test" finished-at="2023-05-12T10:25:00 CEST" duration-ms="4915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Test -->
+        <test-method is-config="true" signature="avsluta()[pri:0, instance:org.example.LogOut@2eced48b]" started-at="2023-05-12T10:25:00 CEST" name="avsluta" finished-at="2023-05-12T10:25:00 CEST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avsluta -->
+      </class> <!-- org.example.LogOut -->
+      <class name="org.example.Register">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.example.Register@47c4ecdc]" started-at="2023-05-12T10:25:00 CEST" name="beforeClass" finished-at="2023-05-12T10:25:00 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.Register@47c4ecdc]" started-at="2023-05-12T10:25:00 CEST" name="beforeMethod" finished-at="2023-05-12T10:25:02 CEST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Register()[pri:0, instance:org.example.Register@47c4ecdc]" started-at="2023-05-12T10:25:02 CEST" name="Register" finished-at="2023-05-12T10:25:06 CEST" duration-ms="4853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="avsluta()[pri:0, instance:org.example.Register@47c4ecdc]" started-at="2023-05-12T10:25:06 CEST" name="avsluta" finished-at="2023-05-12T10:25:07 CEST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avsluta -->
+      </class> <!-- org.example.Register -->
+    </test> <!-- Playground.lambdatest test -->
+  </suite> <!-- Playground.lambdatest suite -->
+</testng-results>
